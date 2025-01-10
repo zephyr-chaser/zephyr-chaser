@@ -10,37 +10,30 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
-
 <!-- profile logo 个人资料徽标 -->
+
   <div>
-    <a href="https://www.peterjxl.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=Peter-JXL&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+    <a href=""><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+    <img src="" alt="访问量统计" />&emsp;
   </div>
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 </div>
 
 #  🙋 Hello
 
 <table>
-  
 <tr><td>
 
 ### 🤺 About Me
 
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
 
-<p>&emsp;&emsp;嗨，我是Peter-JXL。热爱编程、读书、健身、旅行。</p>
-<p>&emsp;&emsp;想要自己“实现”一台计算机，从零开始写 CPU + 操作系统 + 编译原理 + 网络协议 +......</p>
-<p>&emsp;&emsp; 个人公众号：<a href="https://github.com/Peter-JXL/vuepressblog/blob/master/images/QR-Code.png" target="_blank"> PeterJXL </a></p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;嗨，我是Zephyr-Chaser。热爱编程、读书。</p>
+<p>&emsp;&emsp;想要手动实现计算机到AI，从CPU、操作系统、网络协议到神经网络、LLM，from zero to one</p>
+<p>&emsp;&emsp;你若要喜爱你自己的价值，你就得给世界创造价值。</p>
+<p>&emsp;&emsp;<strong>If you want to love your own value, you have to create value to the world.</strong></p>
 
 
   <!-- for beauty 留个空行好看点 -->
@@ -69,7 +62,7 @@
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
-  
+
 </td></tr>
 
 
